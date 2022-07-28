@@ -7,6 +7,7 @@ public class Testing {
 System.out.println("HI hello");
 System.out.println("IM ARJUN");
 System.out.println("WHAT I HAPPENING");
+int x=5;
 	}
 
 }
